@@ -642,6 +642,7 @@ span {
 	flex-direction: row;
 	justify-content: space-between;
 	gap: 736px;
+	padding-top: 80px;
 }
 
 .footer-block .footer img {
@@ -657,10 +658,11 @@ span {
 
 .global-block p {
 	color: #FFF;
-	font-family: 'Source Sans Pro', sans-serif
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 400;
 	line-height: normal;
 	opacity: 0.3517;
+	margin-top: 70px;
 }
